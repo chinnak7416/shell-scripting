@@ -14,3 +14,4 @@ fi
 
 if [ -z "$b" ]; then
   echo B is eampty / not declared variable
+fi
