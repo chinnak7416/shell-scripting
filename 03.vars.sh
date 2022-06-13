@@ -10,3 +10,4 @@ echo Good evening, Today date is $DATE
 
 ## Command Substitution
 DATE=$(date +%F)
+echo Good evening, Today date is $DATE
