@@ -11,3 +11,6 @@ if [ $a != "abc" ]
 then
   echo NOTOK
 fi
+
+if [ -z "$b" ]; then
+  echo B is eampty / not declared variable
