@@ -17,4 +17,4 @@ EXPR1=$((2+3-4*5/7*8))
 echo EXPR1 OUTPUT = $EXPR1
 
 ## Trying to access a variable from shell command line
-echo Course Name= $COURSE Name
+echo Course Name= $COURSE_NAME
