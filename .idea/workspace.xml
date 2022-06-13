@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e66ce6d7-8e58-4d44-b847-b7e712f4ce8e" name="Changes" comment="Adding a script to demo on print message">
+    <list default="true" id="e66ce6d7-8e58-4d44-b847-b7e712f4ce8e" name="Changes" comment="Print colors with BOLD or BRIGHT">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-print.sh" beforeDir="false" afterPath="$PROJECT_DIR$/02-print.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +21,6 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -94,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655103888110</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Print colors with BOLD or BRIGHT">
+      <created>1655104548209</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655104548209</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +123,7 @@
     <MESSAGE value="Adding a script to demo on print message" />
     <MESSAGE value="Print color" />
     <MESSAGE value="Print colors in BOLD or more BRIGHT" />
-    <option name="LAST_COMMIT_MESSAGE" value="Print colors in BOLD or more BRIGHT" />
+    <MESSAGE value="Print colors with BOLD or BRIGHT" />
+    <option name="LAST_COMMIT_MESSAGE" value="Print colors with BOLD or BRIGHT" />
   </component>
 </project>
